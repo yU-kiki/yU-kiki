@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yikeda?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
-[！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？username = yU-kiki）]（https://github.com/anuraghazra/github-readme-stats）
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yU-kiki&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
